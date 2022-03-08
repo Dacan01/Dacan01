@@ -16,6 +16,3 @@
 <div>
   <a href="https://https://www.instagram.com/danielcandido19/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/daniel-c-a54955b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![ Animação de cobra ](https://github.com/Dacan01/Dacan01/blob/output/github-contribution-grid-snake.svg)
-</div>
